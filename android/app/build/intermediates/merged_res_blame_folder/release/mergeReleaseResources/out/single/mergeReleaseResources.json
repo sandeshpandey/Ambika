@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.ambika.app-release-43:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.ambika.app-main-44:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_fc.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_fc.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_2.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_2.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_elf.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_elf.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_gc.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_gc.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_floatingelements.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_floatingelements.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_rays.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_rays.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_game.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_game.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_logo.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_logo.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_flag.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_flag.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.ambika.app-main-44:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-mdpi_src_resources_images_1.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-mdpi/src_resources_images_1.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.ambika.app-release-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.ambika.app-res-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    }
+]

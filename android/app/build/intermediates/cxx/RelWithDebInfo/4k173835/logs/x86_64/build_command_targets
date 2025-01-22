@@ -1,0 +1,7 @@
+/Users/sandeshpandey/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/sandeshpandey/JOB/Ambika/android/app/.cxx/RelWithDebInfo/4k173835/x86_64 \
+  appmodules \
+  react_codegen_rnscreens \
+  react_codegen_rnsvg \
+  react_codegen_safeareacontext

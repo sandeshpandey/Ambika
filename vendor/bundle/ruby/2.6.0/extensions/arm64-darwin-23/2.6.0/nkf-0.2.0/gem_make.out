@@ -1,0 +1,15 @@
+current directory: /Users/sandeshpandey/JOB/Ambika/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+/Users/sandeshpandey/.rbenv/versions/2.6.10/bin/ruby -I /Users/sandeshpandey/.rbenv/versions/2.6.10/lib/ruby/2.6.0 -r ./siteconf20250116-68962-17yt1bt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sandeshpandey/JOB/Ambika/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/sandeshpandey/JOB/Ambika/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/sandeshpandey/JOB/Ambika/vendor/bundle/ruby/2.6.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250116-68962-57tuzf
